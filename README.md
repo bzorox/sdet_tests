@@ -14,10 +14,11 @@ markdown
 ##  Результат Allure отчета
 ---
 <img width="1919" height="1022" alt="Снимок экрана 2026-04-07 002534" src="https://github.com/user-attachments/assets/e2c613fb-000f-4887-843a-4280ceea9c79" />
----
-## Вывод в командной строке
+
+
+##  Вывод в командной строке
 <img width="1405" height="451" alt="Снимок экрана 2026-04-06 233440" src="https://github.com/user-attachments/assets/f003cf20-1b37-431b-943d-b7b31b21d509" />
-## Тест-кейсы
+##  Тест-кейсы
 
 ### TC-01: Позитивный тест заполнения формы
 
